@@ -5,9 +5,14 @@
 
 -  Fascinated by the intersection of remote work and travel. Seeking projects that embrace flexibility and creativity. Let's code from anywhere in the World!
 
- 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalie77&theme=radical&show_icons=true)
+
+<div>
+<a href="https://github.com/NatalieGomes77">
+ <img width="42%" src="https://github-readme-stats.vercel.app/api?username=NatalieGomes77&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieGomes77&layout=compact&langs_count=7&theme=neon"/>
+
+
+##
 
 <div>
  <a href="https://www.linkedin.com/in/nataliegomes07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.youtube.com/channel/UCf9WTYtHX1V0G4_zSGfpLNg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
@@ -16,4 +21,6 @@
  <a href = "mailto:natalierivieri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div/> 
 
-![Snake animation](https://github.com/NatalieGomes77/NatalieGomes77/blob/output/github-contribution-grid-snake.svg)
+<div>
+ <![Snake animation](https://github.com/NatalieGomes77/NatalieGomes77/blob/output/github-contribution-grid-snake.svg)>
+</div>
