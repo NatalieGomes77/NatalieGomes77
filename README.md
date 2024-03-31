@@ -23,5 +23,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-uses: Platane/snk/svg-only@v3
+- uses: Platane/snk/svg-only@v3
 
